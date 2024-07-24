@@ -1,7 +1,7 @@
 Core JavaScript
-Explain the difference between var, let, and const.
-How does JavaScript handle asynchronous programming?
-What are closures and how do they work?
+1.Explain the difference between var, let, and const.
+2.How does JavaScript handle asynchronous programming?
+3.What are closures and how do they work?
 Describe the event loop and its role in JavaScript.
 Explain prototypal inheritance in JavaScript.
 What is the difference between == and ===?
